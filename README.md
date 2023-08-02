@@ -1,4 +1,4 @@
-### Olá! Eu sou Jadiel Souza, Desenvolvedor Front-End 🤠
+### Olá! Eu sou Jadiel Souza, Estudante de Analise e Desenvolvimento De Sistemas na São Judas🤠
 
 [![blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jadiel07.github.io/new-portif-lio/)
 

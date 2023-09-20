@@ -2,7 +2,7 @@
 
 [![blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jadiel07.github.io/new-portif-lio/)
 
-### esse é o meu portifólio pessoal, ele esta bem desatualizado pois criei ele logo no começo de estudos, mas ja estou criando outro com react.🤓
+### Meu portfólio pessoal está atualmente incompleto, pois estou dedicando meu tempo a aprender mais e criar projetos. No entanto vale apena dar uma conferida lá.🤓
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadiel-santos-268310236/)
 

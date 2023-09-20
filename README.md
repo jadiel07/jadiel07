@@ -4,7 +4,7 @@
 
 ### Meu portfólio pessoal está atualmente incompleto, pois estou dedicando meu tempo a aprender mais e criar projetos. No entanto vale apena dar uma conferida lá.🤓
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadiel-santos-268310236/)
+[![linkedin]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadiel-santos-268310236/](https://portif-lio1-0.vercel.app/))
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadiel07&hide_progress=true)
 

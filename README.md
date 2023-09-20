@@ -1,10 +1,10 @@
 ### Olá! Eu sou Jadiel Souza, Estudante de Analise e Desenvolvimento De Sistemas na São Judas🤠
 
-[![blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jadiel07.github.io/new-portif-lio/)
+[![blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portif-lio1-0.vercel.app/)
 
 ### Meu portfólio pessoal está atualmente incompleto, pois estou dedicando meu tempo a aprender mais e criar projetos. No entanto vale apena dar uma conferida lá.🤓
 
-[![linkedin]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadiel-santos-268310236/](https://portif-lio1-0.vercel.app/))
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadiel-santos-268310236/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadiel07&hide_progress=true)
 

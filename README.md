@@ -1,26 +1,26 @@
-### Olá! Eu sou Jadiel Souza, Estudante de Analise e Desenvolvimento De Sistemas na São Judas🤠
+## Olá, Mundo! 👋
 
-[![blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portif-lio1-0.vercel.app/)
+Bem-vindo ao meu repositório no GitHub! Sou um apaixonado desenvolvedor web com uma missão: transformar código em experiências incríveis. 🚀
 
-### Meu portfólio pessoal está atualmente incompleto, pois estou dedicando meu tempo a aprender mais e criar projetos. No entanto vale apena dar uma conferida lá.🤓
+### O que eu faço:
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadiel-santos-268310236/)
+- 💻 Desenvolvimento front-end com HTML, CSS e JavaScript para criar interfaces responsivas e interativas.
+- ⚛️ Apaixonado por React, onde construo componentes reutilizáveis para experiências de usuário excepcionais.
+- 🌐 Integração de APIs REST para conectar dados e criar sistemas sólidos.
+- 🎨 Amigo íntimo do Tailwind CSS para design eficiente e interfaces modernas.
+- 🤝 Defensor da Experiência do Usuário (UX), garantindo que meus projetos sejam acessíveis e fáceis de usar.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadiel07&hide_progress=true)
+### O que eu busco:
 
-## Tecnologias que eu uso no meu dia
+Estou sempre em busca de desafios empolgantes e projetos inovadores. 
+Quero fazer parte de equipes que compartilham minha paixão por criar produtos digitais de alta qualidade.
 
-<div style= "display:inline_block"> <br>
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-<img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-<img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<br>
+### Habilidades Principais:
 
-### Atualmente estudando essas tecnologias:
+HTML, CSS, JavaScript, React
+API REST
+Tailwind CSS
+UX/UI
 
-<img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-<img align="center" alt="vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
-</div>
 
-### Email para contato: jadiel174@hotmail.com
+

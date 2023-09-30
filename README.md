@@ -17,9 +17,12 @@ Quero fazer parte de equipes que compartilham minha paixão por criar produtos d
 
 ### Habilidades Principais:
 
-HTML, CSS, JavaScript, React
-API REST
-Tailwind CSS
+HTML<br>
+CSS<br> 
+JavaScript<br>
+React(hooks, react router, axios) <br>
+API REST<br>
+Tailwind CSS<br>
 UX/UI
 
 

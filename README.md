@@ -1,29 +1,28 @@
 ## Olá, Mundo! 👋
 
-Bem-vindo ao meu repositório no GitHub! Sou um apaixonado desenvolvedor web com uma missão: transformar código em experiências incríveis. 🚀
+Bem-vindo ao meu repositório no GitHub! Sou um apaixonado desenvolvedor com uma unica missão: transformar código em experiências incríveis. 🚀
 
 ### O que eu faço:
 
 - 💻 Desenvolvimento front-end com HTML, CSS e JavaScript para criar interfaces responsivas e interativas.
 - ⚛️ Apaixonado por React, onde construo componentes reutilizáveis para experiências de usuário excepcionais.
 - 🌐 Integração de APIs REST para conectar dados e criar sistemas sólidos.
-- 🎨 Amigo íntimo do Tailwind CSS para design eficiente e interfaces modernas.
-- 🤝 Defensor da Experiência do Usuário (UX), garantindo que meus projetos sejam acessíveis e fáceis de usar.
+- 🐍 Python, Desenvolvendo soluções versáteis e poderosas para uma variedade de aplicações.
 
 ### O que eu busco:
 
 Estou sempre em busca de desafios empolgantes e projetos inovadores. 
-Quero fazer parte de equipes que compartilham minha paixão por criar produtos digitais de alta qualidade.
+Quero fazer parte de equipes que compartilham da minha paixão por Tecnologia.
 
 ### Habilidades Principais:
 
 HTML<br>
-CSS<br> 
+Tailwind CSS<br>
 JavaScript<br>
 React(hooks, react router, axios) <br>
+UX/UI<br>
+Python<br>
 API REST<br>
-Tailwind CSS<br>
-UX/UI
 
 
 

@@ -2,7 +2,7 @@
 
 Welcome to my GitHub repository! I'm a passionate developer with a single mission: to turn code into amazing experiences. 🚀
 
-### O que eu faço:
+### What I do:
 
 - 💻 Front-end development with HTML, CSS, and JavaScript to create responsive and interactive interfaces.
 - ⚛️ Passionate about React, where I build reusable components for exceptional user experiences.

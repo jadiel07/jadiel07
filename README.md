@@ -22,6 +22,7 @@ React(hooks, react router, axios) <br>
 UX/UI<br>
 Python<br>
 API REST<br>
-
+Node<br>
+Sql<br>
 
 

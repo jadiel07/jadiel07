@@ -1,28 +1,39 @@
-## Olá, Mundo! 👋
+# 👋 Hello, World!
 
-Welcome to my GitHub repository! I'm a passionate developer with a single mission: to turn code into amazing experiences. 🚀
+Welcome to my GitHub!  
+I'm a passionate **Fullstack Developer**, focused on building scalable backend systems and intuitive frontend experiences. My mission? Turning clean code into impactful solutions. 🚀
 
-### What I do:
+---
 
-- 💻 Front-end development with HTML, CSS, and JavaScript to create responsive and interactive interfaces.
-- ⚛️ Passionate about React, where I build reusable components for exceptional user experiences.
-- 🌐 Integration of REST APIs to connect data and create robust systems.
-- 🐍 Python, Developing versatile and powerful solutions for a variety of applications.
+## 💼 What I Do
 
-### What I seek:
+- 💻 **Frontend Development** with **React**, **HTML5**, **CSS3**, and **Tailwind CSS**, crafting responsive, modern, and user-friendly interfaces.
+- ⚙️ **Backend Development** with **Node.js**, **NestJS**, **Express**, and **TypeScript**, creating well-structured and efficient **RESTful** and **GraphQL APIs**.
+- 🧪 Writing clean, maintainable code and applying **software engineering best practices**.
+- 🐍 Developing versatile solutions with **Python** for automation and utility scripts.
+- 🗄️ Working with **MySQL**, **PostgreSQL**, and **SQL** to design and manage relational databases.
+- ☁️ Familiar with **Docker**, **Git**, and **AWS** for modern DevOps and cloud-based deployments.
 
-I'm always on the lookout for exciting challenges and innovative projects.
-I want to be part of teams that share my passion for Technology.
-### Main Skills:
+---
 
-HTML<br>
-Tailwind CSS<br>
-JavaScript<br>
-React(hooks, react router, axios) <br>
-UX/UI<br>
-Python<br>
-API REST<br>
-Node<br>
-Sql<br>
+## 🎯 What I’m Looking For
 
+I'm constantly learning and looking for new challenges. I want to join teams that value clean architecture, collaboration, and innovation — and where I can keep evolving as a developer.
 
+---
+
+## 🚀 Main Skills
+
+- **TypeScript**, **JavaScript (ES6+)**
+- **React** (Hooks, React Router, Axios)
+- **Node.js**, **NestJS**, **Express**
+- **Tailwind CSS**, **HTML5**, **CSS3**
+- **REST API**, **GraphQL**
+- **PostgreSQL**, **MySQL**, **SQL**
+- **Docker**, **Git**, **GitHub Actions**
+- **Python**
+- **UX/UI Principles**
+
+---
+
+Let’s build something great together! 🔧✨

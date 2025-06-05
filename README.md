@@ -7,12 +7,12 @@ I'm a passionate **Fullstack Developer**, focused on building scalable backend s
 
 ## 💼 What I Do
 
+- ⚙️ **Backend Development** with **Java (Spring Boot)**, **Node.js**, **Express**, and **TypeScript**, creating well-structured and efficient **RESTful**.
 - 💻 **Frontend Development** with **React**, **HTML5**, **CSS3**, and **Tailwind CSS**, crafting responsive, modern, and user-friendly interfaces.
-- ⚙️ **Backend Development** with **Node.js**, **NestJS**, **Express**, and **TypeScript**, creating well-structured and efficient **RESTful** and **GraphQL APIs**.
 - 🧪 Writing clean, maintainable code and applying **software engineering best practices**.
 - 🐍 Developing versatile solutions with **Python** for automation and utility scripts.
-- 🗄️ Working with **MySQL**, **PostgreSQL**, and **SQL** to design and manage relational databases.
-- ☁️ Familiar with **Docker**, **Git**, and **AWS** for modern DevOps and cloud-based deployments.
+- 🗄️ Working with **PostgreSQL**, and **MongoDB** to design and manage relational databases.
+- ☁️ Familiar with **Docker**, **Git**, for modern DevOps and cloud-based deployments.
 
 ---
 
@@ -24,13 +24,13 @@ I'm constantly learning and looking for new challenges. I want to join teams tha
 
 ## 🚀 Main Skills
 
-- **TypeScript**, **JavaScript (ES6+)**
+-  **Java (Spring Boot)** ,**TypeScript**, **JavaScript (ES6+)**
 - **React** (Hooks, React Router, Axios)
-- **Node.js**, **NestJS**, **Express**
+- **Node.js**, **Express**
 - **Tailwind CSS**, **HTML5**, **CSS3**
-- **REST API**, **GraphQL**
+- **REST API**
 - **PostgreSQL**, **MySQL**, **SQL**
-- **Docker**, **Git**, **GitHub Actions**
+- **Docker**, **Git**
 - **Python**
 - **UX/UI Principles**
 

@@ -1,38 +1,64 @@
-# 👋 Hello, World!
+# 👋 Hello! I'm Jadiel Santos
 
-Welcome to my GitHub!  
-I'm a passionate **Fullstack Developer**, focused on building scalable backend systems and intuitive frontend experiences. My mission? Turning clean code into impactful solutions. 🚀
+Backend Developer focused on building **scalable APIs, automation tools, and reliable backend systems**.
 
----
-
-## 💼 What I Do
-
-- ⚙️ **Backend Development** with **Node.js**, **Express**, and **TypeScript**, creating well-structured and efficient **RESTful**.
-- 💻 **Frontend Development** with **React**, **HTML5**, **CSS3**, and **Tailwind CSS**, crafting responsive, modern, and user-friendly interfaces.
-- 🧪 Writing clean, maintainable code and applying **software engineering best practices**.
-- 🐍 Developing versatile solutions with **Python** for automation and utility scripts.
-- 🗄️ Working with **PostgreSQL**, and **MongoDB** to design and manage relational databases.
-- ☁️ Familiar with **Docker**, **Git**, for modern DevOps and cloud-based deployments.
+I enjoy designing clean architectures, solving real-world problems with code, and continuously improving my skills in **software engineering and cloud technologies**.
 
 ---
 
-## 🎯 What I’m Looking For
+# 💻 What I Do
 
-I'm constantly learning and looking for new challenges. I want to join teams that value clean architecture, collaboration, and innovation — and where I can keep evolving as a developer.
+⚙️ **Backend Development**  
+Building scalable and well-structured APIs using **Node.js, Express, and TypeScript**.
+
+🐍 **Automation & Data Processing**  
+Developing scripts and tools with **Python** to automate processes and handle data workflows.
+
+🗄️ **Database Design**  
+Working with **PostgreSQL, MySQL, and SQL** for efficient data storage and querying.
+
+☁️ **Cloud & Infrastructure**  
+Containerizing applications with **Docker** and working with **AWS services** such as EC2, S3, and IAM.
+
+🧩 **Frontend when needed**  
+Building simple and responsive interfaces with **React, HTML, CSS, and Tailwind**.
 
 ---
 
-## 🚀 Main Skills
+# 🚀 Tech Stack
 
--  **Python** ,**TypeScript**, **JavaScript (ES6+)**
-- **React** (Hooks, React Router, Axios)
-- **Node.js**, **Express**
-- **Tailwind CSS**, **HTML5**, **CSS3**
-- **REST API**
-- **PostgreSQL**, **MySQL**, **SQL**
-- **Docker**, **Git**
-- **UX/UI Principles**
+**Languages**  
+Python • TypeScript • JavaScript • SQL  
+
+**Backend**  
+Node.js • Express • REST APIs  
+
+**Databases**  
+PostgreSQL • MySQL  
+
+**Cloud & Dev Tools**  
+Docker • AWS • Git  
+
+**Frontend**  
+React • HTML • CSS • Tailwind
 
 ---
 
-Let’s build something great together! 🔧✨
+# 🎯 Currently
+
+- Improving my **backend architecture and system design skills**
+- Building projects with **Node.js + Docker + AWS**
+- Exploring **scalable backend architectures and microservices**
+
+---
+
+# 📫 Contact
+
+📍 São Paulo, Brazil  
+📧 Email: **jadiels324@gmail.com**  
+💼 LinkedIn:  
+https://www.linkedin.com/in/jadiel-santos-de-souza/
+
+---
+
+⭐ Feel free to explore my repositories and projects!

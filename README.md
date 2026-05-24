@@ -1,6 +1,5 @@
 # 👋 Hello! I'm Jadiel Santos
-
-Backend Developer focused on building **scalable APIs, distributed systems, and automation solutions** using **.NET (C#) and Node.js**.
+Backend Developer focused on building **scalable APIs, automation solutions, and system integrations** using **Node.js (TypeScript)** and **Python**.
 
 I enjoy designing clean architectures, solving real-world problems, and building reliable backend systems with a strong focus on **performance, scalability, and maintainability**.
 
@@ -9,7 +8,7 @@ I enjoy designing clean architectures, solving real-world problems, and building
 # 💻 What I Do
 
 ⚙️ **Backend Development**
-Building scalable APIs using **ASP.NET Core (C#)** and **Node.js (TypeScript, Express)**, following best practices like **Clean Code, SOLID, and layered architecture**.
+Building scalable APIs using **Node.js (TypeScript, Express)** and **Django (Python)**, following best practices like **Clean Code, SOLID, and layered architecture**.
 
 🔗 **System Integration & APIs**
 Designing and integrating RESTful APIs, handling authentication, data flow, and communication between services.
@@ -31,10 +30,10 @@ Building simple and responsive interfaces using **React, HTML, CSS, and Tailwind
 # 🚀 Tech Stack
 
 **Languages**
-C# • TypeScript • JavaScript • Python • SQL
+TypeScript • JavaScript • Python • SQL
 
 **Backend**
-.NET • ASP.NET Core • Node.js • Express • REST APIs
+Node.js • Express • Django • Django REST Framework • REST APIs
 
 **Databases**
 SQL Server • PostgreSQL • MySQL
@@ -48,12 +47,9 @@ React • HTML • CSS • Tailwind
 ---
 
 # 🎯 Currently
-
-* Improving my **backend architecture and system design skills**
-* Building projects with **.NET + Node.js + Docker**
-* Exploring **scalable architectures, microservices, and cloud environments**
-
----
+- Deepening my **backend architecture and system design skills**
+- Building projects with **Node.js + Python + Docker**
+- Exploring **scalable architectures, microservices, and cloud environments**
 
 # 📫 Contact
 
